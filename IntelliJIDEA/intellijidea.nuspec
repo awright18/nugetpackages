@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>intellijidea</id>
+    <title>IntelliJIDEA</title>
+    <version>11.1.2</version>
+    <authors>JetBrains</authors>
+    <owners>Adam Wright</owners>
+    <summary>An IDE for Java</summary>
+    <description>IntelliJ IDEA is a code-centric IDE focused on developer productivity. The editor deeply understands your code and knows its way around the codebase, makes great suggestions right when you need them, and is always ready to help you shape your code.</description>
+    <projectUrl>http://www.jetbrains.com/idea</projectUrl>
+    <tags>java ide developer productivity tool chocolatey</tags>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
