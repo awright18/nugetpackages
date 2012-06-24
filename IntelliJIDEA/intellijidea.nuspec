@@ -11,5 +11,6 @@
     <projectUrl>http://www.jetbrains.com/idea</projectUrl>
     <tags>java ide developer productivity tool chocolatey</tags>
 	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<iconUrl>https://github.com/awright18/nugetpackages/raw/master/intellijidea/intellijidealogo.png</iconUrl>
   </metadata>
 </package>
