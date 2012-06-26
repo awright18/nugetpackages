@@ -10,7 +10,7 @@ try {
   write-host "Installing `'$file`' with AutoIt3 using `'$installerFile`'"
   $installArgs = "/c autoit3 `"$installerFile`" `"$file`""
   Start-ChocolateyProcessAsAdmin "$installArgs" 'cmd.exe'
-  sleep(30)
+  sleep(15)
   Write-ChocolateySuccess 'githubforwindows'
 } catch {
   Write-ChocolateyFailure 'githubforwindows' "$($_.Exception.Message)"
