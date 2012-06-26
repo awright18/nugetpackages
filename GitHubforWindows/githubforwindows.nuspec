@@ -11,7 +11,7 @@
     <projectUrl>http://windows.github.com</projectUrl>
     <tags>git client github distributed version control chocolatey unattended admin</tags>
 	<requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<iconUrl>https://github.com/awright18/nugetpackages/raw/master/githubforwindows/githubforwindowslogo.png</iconUrl>
+	<iconUrl>https://github.com/awright18/nugetpackages/raw/master/GitHubforWindows/githubforwindowslogo.png</iconUrl>
 	<dependencies>
       <dependency id="autoit.commandline" />
     </dependencies>
