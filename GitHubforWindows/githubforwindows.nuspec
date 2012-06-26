@@ -9,7 +9,7 @@
     <summary>GitHub for Windows is a git client for windows and GitHub</summary>
     <description>GitHub for Windows is a 100% native application that will run on Windows XP, Vista, 7 and even the pre-release Windows 8. Included in the application is a complete installation of msysGit making this the single best way to start using Git on Windows.</description>
     <projectUrl>http://windows.github.com</projectUrl>
-    <tags>git client github open source distributed version control chocolatey unattended admin</tags>
+    <tags>git client github distributed version control chocolatey unattended admin</tags>
 	<requireLicenseAcceptance>false</requireLicenseAcceptance>
 	<iconUrl>https://github.com/awright18/nugetpackages/raw/master/githubforwindows/githubforwindowslogo.png</iconUrl>
 	<dependencies>
