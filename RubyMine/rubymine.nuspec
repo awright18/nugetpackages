@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>rubymine</id>
+    <title>RubyMine</title>
+    <version>4.0.3</version>
+    <authors>JetBrains</authors>
+    <owners>Adam Wright</owners>
+    <summary>An Integrated Development Environment for Ruby and Rails</summary>
+    <description>RubyMine is a Ruby and Rails IDE with the full stack of essential developer tools, all tightly integrated into a convenient and smart development environment.</description>
+    <projectUrl>http://www.jetbrains.com/ruby</projectUrl>
+    <tags>ruby ide rails developer productivity tool chocolatey</tags>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<iconUrl>https://github.com/awright18/nugetpackages/raw/master/ruby/rubyminelogo.png</iconUrl>
+  </metadata>
+</package>

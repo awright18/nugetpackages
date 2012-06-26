@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'teamcity' 'exe' '/S' 'http://download-ln.jetbrains.com/teamcity/TeamCity-7.0.3.exe'

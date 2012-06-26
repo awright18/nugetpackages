@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'rubymine' 'exe' '/S' 'http://download-ln.jetbrains.com/ruby/RubyMine-4.0.3.exe'

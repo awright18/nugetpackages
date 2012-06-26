@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'pycharm' 'exe' '/S' 'http://download-ln.jetbrains.com/python/pycharm-2.5.1.exe'

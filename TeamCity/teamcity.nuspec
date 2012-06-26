@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>teamcity</id>
+    <title>TeamCity</title>
+    <version>7.0.3</version>
+    <authors>JetBrains</authors>
+    <owners>Adam Wright</owners>
+    <summary>TeamCity is a user-friendly continuous integration (CI) server for professional developers and build engineers</summary>
+    <description>TeamCity is a user-friendly continuous integration (CI) server for professional developers and build engineers. It is trivial to setup and absolutely free for small teams.  Automate code analyzing, compiling, and testing processes, providing instant feedback on build progress, problems and test failures, all in simple, intuitive web-interface;
+  Run multiple builds and tests under different configurations and platforms simultaneously.
+  Perform Pre-tested commits, helping the rest of a team sustain an uninterrupted workflow.
+  Have build history insight with customizable statistics on build duration, success rate, code quality and custom metrics.
+  Enable cost-effective on-demand build infrastructure scaling thanks to tight integration with Amazon EC2.</description>
+    <projectUrl>http://www.jetbrains.com/teamcity</projectUrl>
+    <tags>build automation server admin continuous integration chocolatey</tags>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<iconUrl>https://github.com/awright18/nugetpackages/raw/master/teamcity/teamcitylogo.png</iconUrl>
+  </metadata>
+</package>
